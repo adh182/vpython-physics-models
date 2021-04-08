@@ -1,8 +1,5 @@
 from vpython import *
 
-#ISLAMUDDIN ALIMURRIJAL
-#18509030111018
-
 #PEMANTULAN BOLA DENGAN GERAK JATUH BEBAS DAN GAYA  GRAVITASI
 
 #membuat objek lantai dan bola
